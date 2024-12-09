@@ -1,0 +1,11 @@
+name,age,favourite_food
+Alice,25,Pizza
+Bob,30,Burger
+Charlie,22,Pizza
+David,28,Sushi
+Eva,35,Burger
+Frank,27,Sushi
+Grace,24,Pasta
+Hank,29,Pizza
+Ivy,26,Pasta
+John,31,Burger
